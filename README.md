@@ -1,5 +1,8 @@
 # GetNextLine
 
+- **Language:** C
+- **Group Size:** 1
+
 ## Goal
 
 The goal of this project is to write a function that returns a read line from a file descriptor.  
